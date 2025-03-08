@@ -70,3 +70,13 @@ async function myFunction() {
   }
 }
 myFunction();
+
+// Git Collaboration
+// 1. Now pair up with a colleague (preferably sitting next to you) and add them to your repository as
+// a collaborator by referring to this documentation.
+// 2. Now clone their repository to your computer.
+// 3. Then as with step 1, create a branch and introduce a small change.
+// 4. Push the branch to the remote repository.
+// 5. Use the GitHub official documentation to create a Pull Request on Github for your branch.
+// Then merge the pull request created by your friend to the main by referring to this official
+// documentation.
