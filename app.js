@@ -39,3 +39,7 @@ https
   .on("error", (err) => {
     console.log("Error: " + err.message);
   });
+//Hi
+// Using a module
+const myModule = require("./my-module.js");
+console.log(myModule.myFunction());
